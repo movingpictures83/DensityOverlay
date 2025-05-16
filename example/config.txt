@@ -1,0 +1,2 @@
+Prefix plugins/DensityOverlay/example/
+Plugin DensityOverlay inputfile iris.csv outputfile output.png
